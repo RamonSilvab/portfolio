@@ -1,9 +1,17 @@
 const temaDark = {
   corPincipal: '#fff',
-  corSecundaria: '#949494',
+  corSecundaria: '#eee',
   corDeFundo: '#282a35',
-  corDeFundoBotao: '#4476bf',
+  corDeFundoBotao: '#fff',
   corDaBorda: '#c1c1c1'
 }
 
 export default temaDark
+
+export type Theme = {
+  corPincipal: string
+  corSecundaria: string
+  corDeFundo: string
+  corDeFundoBotao: string
+  corDaBorda: string
+}
