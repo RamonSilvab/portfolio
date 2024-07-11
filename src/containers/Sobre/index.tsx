@@ -10,8 +10,8 @@ const Sobre = () => (
       equipamentos de informática na FDCI.
     </Paragrafo>
     <Paragrafo tipo="principal">
-      👀 Tenho interesses pelas áreas de front-end, ecossistema JavaScript e
-      Java. Também gosto muito de robótica.
+      👀 Tenho interesse nas áreas de desenvolvimento de software, sistemas de
+      informação e programação em Java. Também gosto muito de robótica.
     </Paragrafo>
     <Paragrafo tipo="principal">
       🌱 Atualmente estou cursando Desenvolvedor Full Stack Java na EBAC (Escola
